@@ -1,0 +1,3 @@
+Hadoop is a framework
+Hadoop is powerful
+Hadoop can process big data
